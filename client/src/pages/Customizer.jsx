@@ -58,7 +58,7 @@ const Customizer = () => {
       setGeneratingImg(true);
 
       const response = await fetch(
-        "https://clothify-ai-backend.onrender.com/api/v1/dalle",
+        "https://clothifyai-backend.onrender.com/api/v1/dalle",
         {
           method: "POST",
           headers: {
