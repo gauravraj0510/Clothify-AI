@@ -7,8 +7,8 @@
 
 ## Demo
 
-https://clothify-ai-backend.onrender.com/
+https://aiclothify-raj510.vercel.app/
 
 ## Backend on Render
 
-https://clothify-ai-backend.onrender.com/
+https://clothifyai-backend.onrender.com/
