@@ -9,6 +9,6 @@
 
 https://aiclothify-raj510.vercel.app/
 
-## Backend on Render
+## Backend on Vercel
 
-https://clothifyai-backend.onrender.com/
+https://aiclothify-backend.vercel.app/
