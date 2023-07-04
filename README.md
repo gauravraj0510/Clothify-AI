@@ -17,3 +17,4 @@ https://aiclothify-backend.vercel.app/
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/Clothify-AI/main/clothifyai.png)
+![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/Clothify-AI/main/clothifyai2.png)
